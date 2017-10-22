@@ -9,9 +9,9 @@ pragma solidity ^0.4.16;
 
         function MyToken(...) {
             totalSupply = initialSupply;
-            ...
+
         }
-        ...
+
     }
 
 
